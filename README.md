@@ -1,15 +1,4 @@
 ## 😄 About Me
+I am currently pursuing a **Bachelor's degree in Computer Engineering** at Sharif University of Technology. I have a deep passion for **machine learning**, **data science**, and **data engineering**. My journey through various academic and professional experiences has allowed me to work on a variety of projects, from image processing and reinforcement learning projects to designing data pipelines for machine learning systems.
 
-I am Ayeen Poostforoushan, a passionate Computer Engineering student currently studying at Sharif University of Technology. My interests lie in the fields of artificial intelligence, data science and web development. I am always eager to explore new technologies and improve my skills. With a consistent commitment to GitHub, I engage in coding activities and contribute to various projects.
-
-## 🚀 Skills
-
-- Java
-- C/C++
-- Python
-- Django
-- Javascript
-
-## 🌟 Seeking Opportunities
-
-I am a Computer Engineering student passionate about data analysis, machine learning, networking, and software development. If you have any opportunities or projects in these realms, please reach out. I am excited to continue growing and learning in these areas.
+Feel free to explore my repositories and contribute!
